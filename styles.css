@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+nav{
+background-color:grey;
+	height:5rem;
+	display:flex;
+	align-content:center;
+	justify-content:center;
+}
+ul{
+display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	gap:3rem;
+}
